@@ -66,4 +66,9 @@ Contribución
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar el proyecto o encuentras algún error, por favor abre un issue o envía un pull request.
 
 Licencia
+<<<<<<< HEAD
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+=======
+Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+
+>>>>>>> 5bfd24c9d690384d5ae241fdf63013e8c08e7374
