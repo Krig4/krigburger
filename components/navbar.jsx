@@ -9,7 +9,7 @@ export default function NavBar() {
       <div className="container px-6 py-4 mx-auto md:flex md:justify-between md:items-center">
         <div className="flex items-center justify-between">
           <a href="#">
-            <img className="w-auto h-10" src="../img/icono.jpg" alt="Logo" />
+            <img className="w-auto h-20" src="../img/logo1.jpg" alt="Logo" />
           </a>
 
           {/* Botón menú móvil */}
@@ -39,6 +39,7 @@ export default function NavBar() {
             <a className="text-[#8B4513] hover:text-[#663300] md:mx-4" href="#">Servicios</a>
             <a className="text-[#8B4513] hover:text-[#663300] md:mx-4" href="#">Contacto</a>
             <a className="text-[#8B4513] hover:text-[#663300] md:mx-4" href="#">¿Quiénes somos?</a>
+            <a className="text-[#8B4513] hover:text-[#663300] md:mx-4" href="#">Blog</a>
           </div>
 
           {/* Botón de Reservas con icono de hamburguesa */}
